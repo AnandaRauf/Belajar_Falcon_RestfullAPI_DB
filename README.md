@@ -9,7 +9,7 @@ Belajar web framewrok Falcon Restfull API Database.
 Website ini berfungsi untuk menampilkan table database menggunakan Restfull API.
 
 #Cara run web server
-1. [Download Python](https://www.python.org/)
+1. [Download Python](https://www.python.org/downloads/)
 2. Setting Environment Variabel di Path System, contoh path C:\Python388\Scripts dan path C:\Python388\
 3. Aktifkan Virtual Machine Env dengan cara buka cmd di dalam folder project: cd Falcon_RestfullDB,kemudian cd Scripts, kemudian activate.bat.
 4. Setelah itu ketik di cmd cd ..
