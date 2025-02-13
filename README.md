@@ -20,3 +20,8 @@ Website ini berfungsi untuk menampilkan table database menggunakan Restfull API.
 
 Cara pakainya:
 1. ketik http://127.0.0.1:8000/products browser url bar untuk menampilkan product dari database dan table product.
+
+Apabila ada kendala bug dan error bisa hubungi kontak dibawah ini:
+# Kontak saya
+1. [Kirim pesan email](https://mailto:anandaraufm@gmail.com)
+2. [Linkedin](https://linkedin.com/in/ananda-rauf-maududi-)
